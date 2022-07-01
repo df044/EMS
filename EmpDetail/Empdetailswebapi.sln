@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empdetailswebapi", "Empdetailswebapi\Empdetailswebapi.csproj", "{724B3B74-D629-4AF2-8AD0-1EDAA3B02FA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webapp", "Webapp", "{2F29F021-7645-4508-9349-F842FCD98B7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Empdetailswebapi", "Empdetailswebapi", "{717EA153-421C-4138-BA89-BA4370B1AF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724B3B74-D629-4AF2-8AD0-1EDAA3B02FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724B3B74-D629-4AF2-8AD0-1EDAA3B02FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724B3B74-D629-4AF2-8AD0-1EDAA3B02FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724B3B74-D629-4AF2-8AD0-1EDAA3B02FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{717EA153-421C-4138-BA89-BA4370B1AF34} = {2F29F021-7645-4508-9349-F842FCD98B7F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {302673B3-CA7F-4BEE-AA0B-0A79059B845E}
+	EndGlobalSection
+EndGlobal
