@@ -1,0 +1,6 @@
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.csproj.AssemblyReference.cache
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.AssemblyInfoInputs.cache
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.AssemblyInfo.cs
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.csproj.CoreCompileInputs.cache
+C:\Users\mahesh babu\Desktop\employee\Employee.api\obj\Debug\netcoreapp3.1\Employee.api.MvcApplicationPartsAssemblyInfo.cache
